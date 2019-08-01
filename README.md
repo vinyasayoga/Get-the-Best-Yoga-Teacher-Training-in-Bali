@@ -1,37 +1,8 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/vinyasayoga/Get-the-Best-Yoga-Teacher-Training-in-Bali/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vinyasayoga/Get-the-Best-Yoga-Teacher-Training-in-Bali/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<h1>Get the Best Yoga Teacher Training in Bali</h1>
+<p>Yoga has given a new definition of life as well as made a special place in the lives of the people. Right from the ancient time, yoga has brought the biggest transformation in the history of human civilization.  Yoga has revealed the secret of leading a healthy life. The ancient saints and yoga gurus have to lead a strong foundation for the people who want to stay healthy physically, mentally, and emotionally.</p>
+<p>The world of yoga is truly exciting for people of all age groups. From the last couple of years, yoga has crossed the boundaries of the country and become popular among the people around the globe. The deep roots of yoga in India have shown the right path of life to the world.</p>
+<h2>Enhance Your Knowledge with Best Yoga Teacher Training in Bali</h2>  
+<p>It is a holistic experience to learn yoga with the best mentors in Bali. It is a place which gives you a golden opportunity to rejuvenate as well as the place teaches you to see the positive side of life. A yoga session on the beach gives you a lot of chance to learn and explore the ancient art with the best mentors.</p>
+<p>A fresh air, sunshine, and the sand give you a positive atmosphere which will take you a step closer to nature. Yoga is quite easy and exciting when you have a teacher to guide you through various poses of yoga. A numerous of modules are designed according to the requirement of the aspirants. Among all yoga, teacher training modules 200-hour yoga training is most demanded among the aspirants.</p> 
+<p>During the program, the aspirants will get a wealth of knowledge right from basic to advance level of yoga. Adopting yoga will make your life complete and filled with peace and happiness. Detailed knowledge of various postures of yoga is given during the yoga teacher training in Bali. The skilled and committed yoga trainers will share their experience and basic knowledge about yoga during the entire session. It is a residential program which includes three meals with two herbal tea. The yoga course at yoga school is affiliated from yoga alliance in the USA. The students from all age groups can come and join the yoga courses to enjoy a fit healthy and active lifestyle. The <a href="https://rishikeshvinyasayogaschool.com/best-yoga-teacher-training-bali/">best yoga teacher training in Bali</a> is a course designed to transform the lives of the people around the globe. It has become possible due to the experienced mentors and teachers of yoga. They will guide as well as spread awareness among the people. The Affordable Yoga teacher training in Bali has created the leaders of tomorrow to take the world to the heights of spirituality and fitness.</p>   
+<p>With the practice of yoga, every cells, tissues, and organ of the body will start responding and make your immune system even stronger than before. During the yoga training, the yoga teachers will guide you about various types of meditation. The breathing techniques of yoga are one of the most important parts of meditation. Join the yoga course and bring peace to your life with bets yoga training in Bali.</p>
